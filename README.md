@@ -1,5 +1,5 @@
 # Awesome JakartaEE
-A curated list of projects and applications built, released and managed by Eclipse Foudnatios' JakartaEE
+A curated list of projects and applications built, released and managed by Eclipse Foundation' JakartaEE
 
 ## Eclipse Jakarta EE Platform
 The Eclipse Jakarta EE Platform project produces the Jakarta EE platform specification, which is an umbrella specification that aggregates all other Jakarta EE specifications.
